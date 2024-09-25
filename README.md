@@ -1,2 +1,3 @@
 # 42-Fractol
-Project Fractol
+
+............................... Information prochainement
